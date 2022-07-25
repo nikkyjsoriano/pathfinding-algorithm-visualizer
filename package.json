@@ -1,5 +1,5 @@
 {
-  "name": "pathfinding-visualizer",
+  "name": "pathfinding-algorithm-visualizer",
   "version": "0.1.0",
   "private": true,
   "homepage": "http://nikky-soriano.github.io/pathfinding-algorithm-visualizer",
@@ -38,6 +38,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.2.3"
   }
 }
